@@ -1,6 +1,6 @@
 print("hello world");
 
 def thawzin(a):
-    x * 3
+    return a * 3
     
-    
+print(thawzin(4))
